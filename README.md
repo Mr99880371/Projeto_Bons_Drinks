@@ -24,6 +24,7 @@ o Passo a passo a seguir permitirão que você obtenha uma cópia do projeto em 
 🛠️ Construído com
 
 ReactJS
+
 React-router-dom
 
 📌 Versão
@@ -35,4 +36,5 @@ Mariane Araujo Justino
 ** Estudante de desenvolvimento web **
 
 Link para o github: https://github.com/Mr99880371
+
 Link para o Linkedin: https://www.linkedin.com/in/mariane-araujo-39815a195/
