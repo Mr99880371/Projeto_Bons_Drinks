@@ -1,0 +1,8 @@
+.rodape {
+    display: grid;
+    place-items: center;
+    background-color: var(--bege);
+    font-size: 14px;
+    color: var(--preto);
+    font-weight: bold;
+}

@@ -1,0 +1,28 @@
+.centerContainer {
+    background-image: url(./../../img/drink-com-vodka-lista-de-bebidas-Capa-1068x712.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    grid-template-rows: 10vh 83vh 7vh;
+}
+
+.centerLogo {
+    font-size: 180px;
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Bilbo Swash Caps', cursive;
+    color: #fffdf8;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+    animation: zoomIn .5s linear backwards;
+}
+
+@keyframes zoomIn {
+    from {
+        opacity: .3;
+        transform: scale(.6);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

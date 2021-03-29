@@ -1,0 +1,49 @@
+.containerPrincipal {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-family: var(--titles-font);
+    font-weight: 700;
+    font-size: 30px;
+    color: #5c0511;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.containerApi {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 2em;
+}
+
+.containerImagem {
+    width: 230px;
+    align-items: center;
+}
+
+.containerImagem h1 {
+    font-family: var(--titles-font);
+    font-weight: 700;
+    font-size: 30px;
+    color: #5c0511;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.containerImagem img {
+    border-radius: 5px;
+    object-fit: cover;
+    margin-block-start: 0;
+    grid-area: half1;
+}
+
+
+/* .botoes {
+    display: flex;
+    justify-content: space-around;
+} */

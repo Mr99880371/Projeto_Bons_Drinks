@@ -1,0 +1,20 @@
+:root {
+    --bege: #fffbef;
+    --preto: #101010;
+    --laranja: #f9ae48;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+/* code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+} */

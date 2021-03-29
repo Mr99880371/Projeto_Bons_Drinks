@@ -1,0 +1,64 @@
+.contato {
+    display: grid;
+    width: 80%;
+    justify-self: center;
+    grid-template-areas: "title title" "half1 half2";
+    grid-template-rows: 10vh 83vh 7vh;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    gap: 20px;
+}
+
+.titulo {
+    justify-content: center;
+    grid-area: title;
+    font-family: var(--titles-font);
+    font-size: 30px;
+    color: #5c0511;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.formContato {
+    grid-area: half2;
+    align-self: start;
+    width: 100%;
+}
+
+.labelWrapper {
+    margin-bottom: 20px;
+}
+
+.inputLabel {
+    display: block;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.inputText {
+    display: block;
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgba(92, 5, 17, .4);
+    padding: 0;
+    font-size: 18px;
+    color: #101010;
+}
+
+.textArea {
+    display: block;
+    width: 100%;
+    height: 120px;
+    border-radius: 5px;
+    border: 1px solid rgba(92, 5, 17, .4);
+    padding: 0;
+    font-size: 18px;
+    font-family: var(--boby-font);
+    color: #101010;
+}
+
+.button {
+    align-self: flex-end;
+}

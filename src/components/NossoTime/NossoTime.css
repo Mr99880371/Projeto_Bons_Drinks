@@ -1,0 +1,44 @@
+.timeContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.timeTitulo {
+    font-family: var(--titles-font);
+    font-weight: 700;
+    font-size: 30px;
+    color: #5c0511;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.informacoes {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin: 2em;
+    width: 100%;
+}
+
+.members h1 {
+    font-family: var(--body-font);
+    font-size: 25px;
+    color: #101010;
+    font-weight: 700;
+}
+
+.members p {
+    font-family: var(--body-font);
+    font-weight: 300;
+    font-size: 16px;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.foto {
+    border-radius: 5px;
+    object-fit: cover;
+    margin-block-start: 0;
+    grid-area: half1;
+}
