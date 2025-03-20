@@ -1,40 +1,34 @@
-PROJETO BONS DRINKS
+GOOD DRINKS PROJECT
 
+This project aims to implement a page built with ReactJS, which was developed throughout the fourth module in the Resilia Educação Web Development course.
 
-Esse projeto tem por objetivo a implementação de uma página construída com ReactJS, que foi desenvolvida ao longo do quarto módulo no curso de desenvolvimento Web da Resilia Educação.
+🚀 Starting the following step-by-step will allow you to obtain a copy of the project in operation on your local machine for development and testing purposes.
 
-🚀 Começando
-o Passo a passo a seguir permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+📋 Step-by-step:
 
-📋 Passo a passo:
- 
- - Baixar e entrar na pasta deste repositório.
- - No terminal deste repositório rodar:
-    - `npm start`
-  Roda o app no modo do desenvolvedor.\
-  Abre no navegador [http://localhost:3000](http://localhost:3000)
-  
-    - `npm test`
-  Iniciar o executor de testes no modo de observação interativo.\
-  
-    - `npm run build`
-  Ao final do projeto, esse comando, compila o aplicativo para produção na pasta `build`.\
-  
+Download and enter the folder of this repository.
 
-🛠️ Construído com
+In the terminal of this repository, run:
+npm start Run the app in developer mode.
+
+Open in the browser http://localhost:3000
+
+npm test Start the test runner in interactive observation mode.\
+
+npm run build At the end of the project, this command compiles the application for production in the build folder.\
+
+🛠️ Built with
 
 ReactJS
 
 React-router-dom
 
-📌 Versão
-Foi usado o GitHub para controle de versão desse projeto. Para as versões disponíveis, vá para https://github.com/Mr99880371/Projeto_Bons_Drinks.
+📌 Version GitHub was used for version control of this project. For available versions, go to https://github.com/Mr99880371/Projeto_Bons_Drinks.
 
-✒️ Autora
-Mariane Araujo Justino
+✒️ Author Mariane Araujo Justino
 
-** Estudante de desenvolvimento web **
+** Web development student **
 
-Link para o github: https://github.com/Mr99880371
+Link to github: https://github.com/Mr99880371
 
-Link para o Linkedin: https://www.linkedin.com/in/mariane-araujo-39815a195/
+Link to Linkedin: https://www.linkedin.com/in/mariane-araujo-39815a195/
